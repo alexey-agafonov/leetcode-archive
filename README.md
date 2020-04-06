@@ -7,7 +7,7 @@
 
 ---
 
-* [30 Days Leetcoding Challenge](#30 Days Leetcoding Challenge)
+* [30 Days Leetcoding Challenge](#30-days-leetcoding-challenge)
 
 Versions of used programming languages:
 * Kotlin 1.3.71;
@@ -15,7 +15,7 @@ Versions of used programming languages:
 
 ---
 
-# 30 Days Leetcoding Challenge
+# 30-days-leetcoding-challenge
 
 |     Day    |                                                Challenge                                                                       |                                                                                   Solution                                                                                  |
 |:----------:|:------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
