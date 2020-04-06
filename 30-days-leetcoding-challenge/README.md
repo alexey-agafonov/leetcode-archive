@@ -1,20 +1,3 @@
-<p align="center">
-    <a href="https://leetcode.com/xploid/">
-        <img height=80 src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg">
-    </a>
-    <br>My solutions of different Leetcode problems, challenges, interviews, and contests.
-</p>
-
----
-
-* [30 Days Leetcoding Challenge](#30 Days Leetcoding Challenge)
-
-Versions of used programming languages:
-* Kotlin 1.3.71;
-* Java 14.
-
----
-
 # 30 Days Leetcoding Challenge
 
 |     Day    |                                                Challenge                                                                       |                                                                                   Solution                                                                                  |
