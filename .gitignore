@@ -10,3 +10,5 @@
 # Kotlin library
 lib/
 
+# Project compiler output
+out/
