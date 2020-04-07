@@ -23,3 +23,8 @@ class Solution {
         }
     }
 }
+
+fun main(args: Array<String>) {
+    val solution = Solution()
+    println(solution.isHappy(19))
+}

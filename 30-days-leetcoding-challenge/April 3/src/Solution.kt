@@ -13,3 +13,8 @@ class Solution {
         return result
     }
 }
+
+fun main(args: Array<String>) {
+    val solution = Solution()
+    println(solution.maxSubArray(intArrayOf(-2, 1, -3, 4, -1, 2, 1, -5, 4)))
+}

@@ -13,5 +13,12 @@ class Solution {
             }
             i++
         }
+
+        nums.forEach { print("$it ") }
     }
+}
+
+fun main(args: Array<String>) {
+    val solution = Solution()
+    solution.moveZeroes(intArrayOf(0, 1, 0, 0, 0, 3, 12))
 }
