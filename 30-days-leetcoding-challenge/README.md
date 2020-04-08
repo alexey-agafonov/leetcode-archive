@@ -9,7 +9,7 @@
 |  April 5   | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/) | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%205/src/Solution.kt)  |
 |  April 6   | [Group Anagrams](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)                     | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%206/src/Solution.kt)  |
 |  April 7   | [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/)                   | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%207/src/Solution.kt)  |
-|  April 8   | | |
+|  April 8   | [Middle of the Linked List](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/)           | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%208/src/Solution.kt)  |
 |  April 9   | | |
 |  April 10  | | |
 |  April 11  | | |
