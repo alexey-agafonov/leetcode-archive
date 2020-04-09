@@ -10,7 +10,7 @@
 |  April 6   | [Group Anagrams](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)                     | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%206/src/Solution.kt)  |
 |  April 7   | [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/)                   | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%207/src/Solution.kt)  |
 |  April 8   | [Middle of the Linked List](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/)           | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%208/src/Solution.kt)  |
-|  April 9   | | |
+|  April 9   | [Backspace String Compare](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/)            | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%209/src/Solution.kt)  |
 |  April 10  | | |
 |  April 11  | | |
 |  April 12  | | |
