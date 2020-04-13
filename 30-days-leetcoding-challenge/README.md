@@ -14,7 +14,7 @@
 |  April 10  | [Min Stack](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3292/)                           | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2010/src/Solution.kt) |
 |  April 11  | [Diameter of Binary Tree](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/)             | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2011/src/Solution.kt) |
 |  April 12  | [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/)                   | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2012/src/Solution.kt) |
-|  April 13  | | |
+|  April 13  | [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/)                    | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2013/src/Solution.kt) |
 |  April 14  | | |
 |  April 15  | | |
 |  April 16  | | |
