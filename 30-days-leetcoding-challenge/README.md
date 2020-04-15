@@ -16,7 +16,7 @@
 |  April 12  | [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/)                   | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2012/src/Solution.kt) |
 |  April 13  | [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/)                    | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2013/src/Solution.kt) |
 |  April 14  | [Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/)               | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2014/src/Solution.kt) |
-|  April 15  | | |
+|  April 15  | [Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3300/)        | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2015/src/Solution.kt) |
 |  April 16  | | |
 |  April 17  | | |
 |  April 18  | | |
