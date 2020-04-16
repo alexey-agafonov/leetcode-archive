@@ -34,7 +34,7 @@ Versions of used programming languages:
 |  April 13  | [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/)                    | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2013/src/Solution.kt) |
 |  April 14  | [Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/)               | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2014/src/Solution.kt) |
 |  April 15  | [Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3300/)        | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2015/src/Solution.kt) |
-|  April 16  | | |
+|  April 16  | [Valid Parenthesis String](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3301/)            | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2016/src/Solution.kt) | 
 |  April 17  | | |
 |  April 18  | | |
 |  April 19  | | |
