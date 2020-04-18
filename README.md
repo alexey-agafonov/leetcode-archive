@@ -35,8 +35,8 @@ Versions of used programming languages:
 |  April 14  | [Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/)               | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2014/src/Solution.kt) |
 |  April 15  | [Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3300/)        | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2015/src/Solution.kt) |
 |  April 16  | [Valid Parenthesis String](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3301/)            | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2016/src/Solution.kt) | 
-|  April 17  | | |
-|  April 18  | | |
+|  April 17  | [Number of Islands](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3302/)                   | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2017/src/Solution.kt) |
+|  April 18  | [Minimum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/)                    | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2018/src/Solution.kt) |
 |  April 19  | | |
 |  April 20  | | |
 |  April 21  | | |
