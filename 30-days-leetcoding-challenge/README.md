@@ -23,7 +23,7 @@
 |  April 19  | [Search in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/)                       | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2019/src/Solution.kt) |
 |  April 20  | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/) | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2020/src/Solution.kt) |
 |  April 21  | [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)                  | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2021/src/Solution.kt) |
-|  April 22  | | |
+|  April 22  | [Subarray Sum Equals K](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3307/)                                 | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2022/src/Solution.kt) |
 |  April 23  | | |
 |  April 24  | | |
 |  April 25  | | |
