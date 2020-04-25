@@ -26,7 +26,7 @@
 |  April 22  | [Subarray Sum Equals K](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3307/)                                 | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2022/src/Solution.kt) |
 |  April 23  | [Bitwise AND of Numbers Range](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)                         | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2023/src/Solution.kt) |
 |  April 24  | [LRU Cache](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3309/)                                             | [LRUCache.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2024/src/Solution.kt) |
-|  April 25  | | |
+|  April 25  | [Jump Game](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/)                                             | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2025/src/Solution.kt) |
 |  April 26  | | |
 |  April 27  | | |
 |  April 28  | | |
