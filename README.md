@@ -45,7 +45,7 @@ Versions of used programming languages:
 |  April 24  | [LRU Cache](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3309/)                                             | [LRUCache.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2024/src/Solution.kt) |
 |  April 25  | [Jump Game](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/)                                             | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2025/src/Solution.kt) |
 |  April 26  | [Longest Common Subsequence](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3311/)                            | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2026/src/Solution.kt) |
-|  April 27  | | |
+|  April 27  | [Maximal Square](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3312/)                                        | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2027/src/Solution.kt) |
 |  April 28  | | |
 |  April 29  | | |
 |  April 30  | | |
