@@ -47,5 +47,5 @@ Versions of used programming languages:
 |  April 26  | [Longest Common Subsequence](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3311/)                            | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2026/src/Solution.kt)    |
 |  April 27  | [Maximal Square](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3312/)                                        | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2027/src/Solution.kt)    |
 |  April 28  | [First Unique Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3313/)                                   | [FirstUnique.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2028/src/Solution.kt) |
-|  April 29  | | |
+|  April 29  | [Binary Tree Maximum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/532/week-5/3314/)                          | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/April%2029/src/Solution.kt)    |
 |  April 30  | | |
