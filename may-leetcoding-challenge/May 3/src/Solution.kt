@@ -1,5 +1,3 @@
-import kotlin.system.measureTimeMillis
-
 class Solution {
     fun canConstruct(ransomNote: String, magazine: String): Boolean {
         val chars =HashMap<Char, Int>()
