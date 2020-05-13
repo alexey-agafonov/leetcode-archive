@@ -14,7 +14,7 @@
 |  May 10  | [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)                                              | |
 |  May 11  | [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)                                                       | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/May%2011/src/Solution.kt)      |
 |  May 12  | [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)                                 | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/May%2012/src/Solution.kt)      |
-|  May 13  | | |
+|  May 13  | [Remove K Digits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)                                                  | [Solution.kt](https://github.com/alexey-agafonov/leetcode/tree/master/30-days-leetcoding-challenge/May%2013/src/Solution.kt)      |
 |  May 14  | | |
 |  May 15  | | |
 |  May 16  | | |  
